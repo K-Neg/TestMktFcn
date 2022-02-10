@@ -1,3 +1,4 @@
-function getUp(){
-    console.log("up up up")
+function getUp(email){
+    console.log("up up up");
+    console.log(email);
 }
